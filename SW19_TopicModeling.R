@@ -3,7 +3,7 @@
 #### Topic Modeling ####
 ########################
 
-setwd("E:\\Nextcloud\\R\\Masterarbeit")
+setwd("-----")
 load("SW19_tweets_comm.RDa") # includes community information: top 15 (+"none") classified communities 
 
 library(tidyverse)
