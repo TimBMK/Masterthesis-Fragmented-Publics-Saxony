@@ -3,7 +3,7 @@
  ### Network Analysis ###
 #########################
 
-setwd("E:\\Nextcloud\\R\\Masterarbeit")
+setwd("----")
 load("sachsenwahl_tweets.RDa")
 load("sachsenwahl_botscores.RDa")
 
